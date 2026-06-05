@@ -20,10 +20,10 @@ const App = () => {
 
   // The 5-page story array. Edit each string to be a part of your 5-page journey!
   const storyPages = [
-    "From the very first moment we met, everything just clicked. Every laugh we've shared, every late-night conversation, and every little moment has meant the absolute world to me.",
+    "I met you in the funniest way ever, and now I can't imagine going a single day without talking to you, hearing from you, or feeling your presence in my life, babe❤️",
     "I still remember the first day we met at Moscow Villa 😂. That night was honestly one of the best nights I've ever experienced. Oh, you forgot it was at night? Well, I didn't, because that night is something I can never forget. ❤️",
-    "The day you trusted me with something so precious to you, it touched my heart deeply. It reminded me of how special you are and made me fall in love with you🥺.",
-    "We've built such an amazing connection, and I cherish every memory we've made. I truly appreciate you more than words can express.❤️",
+    "From that random moment of you asking to press my ass 😂, to getting my number, to our silly 'husband and wife' claims that started as a joke but somehow became something I treasure so much—every part of our story makes me smile..",
+    "Peach, you've brought so much happiness, laughter, and love into my life. What started in the most unexpected way turned into one of the best things that's ever happened to me.",
     "It's taken me a little while to gather the courage, but I finally realized I can't wait another day to ask you something important...🥺"
   ];
 
@@ -57,7 +57,7 @@ const App = () => {
               className="w-40 h-40 object-cover mx-auto rounded-full border-4 border-pink-200 shadow-md"
             />
             <h1 className="text-5xl font-extrabold text-pink-500 tracking-tight">
-              Welcome, Tess 🍑✨
+              Welcome, Peach 🍑✨
             </h1>
             <p className="text-gray-500 text-lg">I made a little something for you...</p>
             <button
@@ -161,7 +161,7 @@ const App = () => {
               You just made me the happiest guy in the world! ❤️
             </p>
             <p className="text-gray-500">
-              I promise to keep making you smile, to keep building beautiful memories with you, and to cherish you every single day. I love you, Tess❤️
+              I promise to keep making you smile, to keep building beautiful memories with you, and to cherish you every single day. I love you, Peach❤️
             </p>
           </div>
         )}
